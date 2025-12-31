@@ -112,3 +112,5 @@ SELECT
 	END AS avg_monthly_revenue
 
 FROM product_aggregations 
+
+-- select * from gold.report_products;
